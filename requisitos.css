@@ -1,0 +1,54 @@
+@import url('https://fonts.cdnfonts.com/css/chinese-rocks');
+
+body{
+    background-size: 110%;
+    font-family: 'Chinese Rocks Rg', sans-serif;
+}
+
+#menu{
+    font-size: 50px;
+    text-align: center;
+    a{
+        padding: 40px;
+    }
+}
+
+#requisitos-minimos{
+    background-color: rgba(255, 255,255, 0.5);
+    border: solid black;
+    text-align: center;
+    margin: auto;
+    font-size: 40px;
+}
+
+#componentes{
+    background-color: rgba(255, 255,255, 0.5);
+    text-align: center;
+    margin: auto;
+    border: solid black;
+    font-size: 25px;
+    width: 60%;
+    td{
+        border: solid black;
+    }
+}
+
+#requisitos-recomendados{
+    background-color: rgba(255, 255,255, 0.5);
+    border: solid black;
+    text-align: center;
+    margin: auto;
+    font-size: 40px; 
+}
+
+#componentes-recomendados{
+    background-color: rgba(255, 255,255, 0.5);
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    border: solid black;
+    font-size: 25px;
+    td{
+        border: solid black;
+    }
+}

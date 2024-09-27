@@ -1,0 +1,35 @@
+@import url('https://fonts.cdnfonts.com/css/chinese-rocks');
+
+body{
+    font-family: 'Chinese Rocks Rg', sans-serif;
+}
+
+#menu{
+    font-size: 50px;
+    text-align: center;
+    a{
+        padding: 40px;
+    }
+}
+
+#sub-titulo{
+    text-align: center;
+    background-color: rgba(255,255,255, 0.5);
+    width: 30%;
+    margin-left: 50px;
+}
+
+#notas{
+    h2{
+        margin-left: 50px;
+    }
+    h3{
+        margin-left: 75px;;
+    }
+    p{
+        margin-left: 75px;
+        font-size: 20px;
+    }
+    background-color: rgba(255,255,255, 0.5);
+}
+
